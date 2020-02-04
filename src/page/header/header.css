@@ -1,0 +1,13 @@
+.headerContainer{
+    height: 200px;
+    background: #000000;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-items: left;
+}
+
+img.imageLogo {
+    max-height: 100%;
+    max-width: 100%;
+}
